@@ -48,6 +48,20 @@ This repository contains my notes, examples, exercises, and practice notebooks w
 * `ArrayOperations.ipynb`
 * `Exercises.ipynb`
 
+---
+
+## 📂 Repository Structure
+
+```text
+NumPy-Learning/
+│
+├── NumPyArrays.ipynb
+├── ArrayIndexingAndSlicing.ipynb
+├── ArrayOperations.ipynb
+├── Exercises.ipynb
+├── .gitignore
+└── README.md
+```
 
 ---
 
@@ -93,6 +107,19 @@ Validation Checks:
 * Applied NumPy concepts to real-world problem-solving scenarios.
 * Built a strong foundation for Data Analysis and Machine Learning.
 
+### Key NumPy Functions Practiced
+
+* `np.array()`
+* `np.shape`
+* `np.mean()`
+* `np.sum()`
+* `np.max()`
+* `np.unique()`
+* Boolean Masking
+* Array Slicing
+* Array Indexing
+* Transpose (`.T`)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -113,4 +140,4 @@ Validation Checks:
 
 ---
 
-⭐ NumPy fundamentals completed. Ready to move forward with Pandas and Data Analysis.
+🚀 NumPy fundamentals completed. Building a strong foundation for Data Analysis, Machine Learning, and AI.
