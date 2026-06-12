@@ -46,6 +46,8 @@ This repository contains my notes, examples, exercises, and practice notebooks w
 * `NumPyArrays.ipynb`
 * `ArrayIndexingAndSlicing.ipynb`
 * `ArrayOperations.ipynb`
+* `Exercises.ipynb`
+
 
 ---
 
