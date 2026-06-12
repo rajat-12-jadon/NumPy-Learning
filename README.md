@@ -2,7 +2,7 @@
 
 Welcome to my NumPy learning journey!
 
-This repository contains my notes, examples, and practice notebooks while learning NumPy, the fundamental library for numerical computing in Python.
+This repository contains my notes, examples, exercises, and practice notebooks while learning NumPy, the fundamental library for numerical computing in Python.
 
 ## 📚 Topics Covered
 
@@ -18,9 +18,9 @@ This repository contains my notes, examples, and practice notebooks while learni
 
 * Accessing Elements
 * Negative Indexing
-* Slicing Arrays
+* Array Slicing
 * Multi-Dimensional Arrays
-* Selecting Specific Rows and Columns
+* Row and Column Selection
 
 ### ✅ Array Operations
 
@@ -29,6 +29,15 @@ This repository contains my notes, examples, and practice notebooks while learni
 * Aggregation Functions
 * Mathematical Functions
 * Element-wise Operations
+
+### ✅ NumPy Exercises
+
+* Filtering Data
+* Boolean Masking
+* Conditional Selection
+* Column-wise Operations
+* Statistical Analysis using NumPy
+* Data Manipulation and Validation
 
 ---
 
@@ -40,13 +49,55 @@ This repository contains my notes, examples, and practice notebooks while learni
 
 ---
 
+## 🎯 Exercises & Practice Problems
+
+Solved practical NumPy problems involving:
+
+* Student Dataset Analysis
+* Mean Calculation
+* Maximum and Minimum Values
+* Conditional Filtering
+* Boolean Indexing
+* Data Modification
+* Aggregation Functions
+* Sudoku Validation
+
+### Featured Exercise: Valid Sudoku
+
+Implemented a Sudoku Validator using NumPy concepts such as:
+
+* Array Slicing
+* Transpose (`.T`)
+* Aggregation Functions (`np.sum`)
+* Unique Value Detection (`np.unique`)
+* Multi-dimensional Array Traversal
+
+Validation Checks:
+
+* Every row contains unique values from 1–9
+* Every column contains unique values from 1–9
+* Every 3×3 sub-grid contains unique values from 1–9
+
+---
+
 ## 🎯 Learning Outcomes
 
-* Learned the fundamentals of NumPy.
+* Learned NumPy fundamentals.
 * Understood efficient array manipulation.
 * Practiced indexing and slicing techniques.
-* Performed mathematical operations on arrays.
+* Applied aggregation and statistical functions.
+* Used boolean masking and filtering.
+* Solved practical NumPy exercises including Sudoku validation.
+* Applied NumPy concepts to real-world problem-solving scenarios.
 * Built a strong foundation for Data Analysis and Machine Learning.
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
+* NumPy
+* Jupyter Notebook
 
 ---
 
@@ -60,12 +111,4 @@ This repository contains my notes, examples, and practice notebooks while learni
 
 ---
 
-## 🛠️ Technologies Used
-
-* Python
-* NumPy
-* Jupyter Notebook
-
----
-
-⭐ Learning one concept at a time and building a strong foundation for Data Science and Machine Learning.
+⭐ NumPy fundamentals completed. Ready to move forward with Pandas and Data Analysis.
